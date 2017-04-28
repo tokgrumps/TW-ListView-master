@@ -30,5 +30,8 @@ public class FirstActivity extends AppCompatActivity {
         aa = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, al);
         lv.setAdapter(aa);
 
+
+
+
     }
 }
