@@ -10,8 +10,13 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="  DSMD Course Structure"
+        android:text="  DMSD Course Structure"
         android:textSize="30sp" />
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lvYear">
+    </ListView>
 
 
 </LinearLayout>
